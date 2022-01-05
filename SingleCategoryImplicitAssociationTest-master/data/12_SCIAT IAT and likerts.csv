@@ -1,0 +1,921 @@
+colourB,colourA,instruction,orStimulusLeft,orStimulusRight,block,nBlockRepeats,attribute2,attribute1,target2,condition,target1,stimulusColour,stimulus,feedbackKey,feedbackAllowed,trialtype,requiredAllowed,requiredKey,imageStimulus,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,requiredResponse.keys,requiredResponse.corr,requiredResponse.rt,feedbackResponse.keys,feedbackResponse.corr,feedbackResponse.rt,participant,gender,age,frameRate,expName,date,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Mechant,i,i,4,e,e,blank.png,0,0,0,0,0,0,0,9,e,1,1.51591389999,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Sympathique,e,e,3,i,i,blank.png,0,0,0,0,0,1,1,3,i,1,1.00012820004,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Degoutant,i,i,4,e,e,blank.png,0,0,0,0,0,2,2,8,e,1,0.616778499912,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Meprisant,i,i,4,e,e,blank.png,0,0,0,0,0,3,3,6,e,1,0.650183900027,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Attrayant,e,e,3,i,i,blank.png,0,0,0,0,0,4,4,0,i,1,1.09794700006,e,1,0.649954900146,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Affreux,i,i,4,e,e,blank.png,0,0,0,0,0,5,5,5,e,1,0.716359199956,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Sale,i,i,4,e,e,blank.png,0,0,0,0,0,6,6,7,e,1,0.783178299898,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Appreciable,e,e,3,i,i,blank.png,0,0,0,0,0,7,7,1,i,1,0.599472000031,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Favorable,e,e,3,i,i,blank.png,0,0,0,0,0,8,8,2,i,1,0.616766899824,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Adorable,e,e,3,i,i,blank.png,0,0,0,0,0,9,9,4,i,1,0.549970500171,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Sympathique,e,e,3,i,i,blank.png,0,0,0,0,1,0,10,3,i,1,0.531777899945,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Favorable,e,e,3,i,i,blank.png,0,0,0,0,1,1,11,2,i,1,0.483541100053,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Affreux,i,i,4,e,e,blank.png,0,0,0,0,1,2,12,5,e,1,0.683337299852,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Adorable,e,e,3,i,i,blank.png,0,0,0,0,1,3,13,4,i,1,0.64985330007,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Sale,i,i,4,e,e,blank.png,0,0,0,0,1,4,14,7,e,1,0.699988400098,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Degoutant,i,i,4,e,e,blank.png,0,0,0,0,1,5,15,8,e,1,0.748744900106,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Attrayant,e,e,3,i,i,blank.png,0,0,0,0,1,6,16,0,i,1,0.581678400049,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Appreciable,e,e,3,i,i,blank.png,0,0,0,0,1,7,17,1,i,1,1.08371490007,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Mechant,i,i,4,e,e,blank.png,0,0,0,0,1,8,18,9,e,1,0.598652200075,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"Dans cette tache les stimulis vont apparaitre un par un a l'ecran. Vous devez les categoriser en appuyant sur la touche gauche (E) ou droite (I). Il y a trois categories possibles:
+
+(1) POSITIF
+(2) NEGATIF
+(3) VOUS
+
+Les differentes categories ne seront pas assignees aux memes boutons suivant les phases. Les categories assignees au bouton gauche apparaitront en haut a gauche de l'ecran, celles assignees au bouton droit apparaitront en haut a droite. 
+
+Essayez de repondre le plus vite possible, sans faire d'erreur. Si vous faites une erreur, une croix rouge va apparaitre. Elle restera jusqu'a ce que vous donniez la bonne reponse.
+
+Appuyez sur E ou I pour continuer. ", , ,trials_attributes.xlsx,2,Positif,Negatif, ,2, ,magenta,Meprisant,i,i,4,e,e,blank.png,0,0,0,0,1,9,19,6,e,1,0.683422500035,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,1987,i,i,1,e,e,blank.png,0,1,1,1,0,0,0,7,e,1,1.93063379987,i,1,1.24806949985,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Affreux,i,i,3,e,e,blank.png,0,1,1,1,0,1,1,25,e,1,4.91189770005,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Meprisant,i,i,3,e,e,blank.png,0,1,1,1,0,2,2,26,e,1,0.883068500087,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Degoutant,i,i,3,e,e,blank.png,0,1,1,1,0,3,3,28,e,1,0.73317549983,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,0,4,4,13,i,1,1.53152110009,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,St Emilion,i,i,1,e,e,blank.png,0,1,1,1,0,5,5,4,e,1,1.01549999998,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Mechant,i,i,3,e,e,blank.png,0,1,1,1,0,6,6,34,e,1,0.749926100019,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,0,7,7,24,i,1,0.665961800143,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,"5 juillet,",i,i,1,e,e,blank.png,0,1,1,1,0,8,8,8,e,1,0.999488800066,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,0,9,9,15,i,1,0.866509400075,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chrystelle,i,i,1,e,e,blank.png,0,1,1,1,0,10,10,5,e,1,0.865621999837,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,St Emilion,i,i,1,e,e,blank.png,0,1,1,1,0,11,11,9,e,1,0.483498000074,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sale,i,i,3,e,e,blank.png,0,1,1,1,0,12,12,32,e,1,0.915651499992,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Affreux,i,i,3,e,e,blank.png,0,1,1,1,0,13,13,30,e,1,0.83296749997,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,0,14,14,12,i,1,1.31583850016,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,1987,i,i,1,e,e,blank.png,0,1,1,1,0,15,15,2,e,1,0.516815199982,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sale,i,i,3,e,e,blank.png,0,1,1,1,0,16,16,27,e,1,0.700101000024,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chardron,i,i,1,e,e,blank.png,0,1,1,1,0,17,17,1,e,1,0.550379399909,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,0,18,18,10,i,1,0.615960699972,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,0,19,19,20,i,1,0.532712499844,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chrystelle,i,i,1,e,e,blank.png,0,1,1,1,0,20,20,0,e,1,0.698937400011,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,0,21,21,22,i,1,0.582717499929,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,0,22,22,11,i,1,1.03170180018,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,0,23,23,21,i,1,0.566817700164,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Meprisant,i,i,3,e,e,blank.png,0,1,1,1,0,24,24,31,e,1,0.615961200092,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Degoutant,i,i,3,e,e,blank.png,0,1,1,1,0,25,25,33,e,1,0.516753900098,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,0,26,26,14,i,1,0.864313500002,e,1,0.433434200007,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,0,27,27,17,i,1,0.832160299877,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Mechant,i,i,3,e,e,blank.png,0,1,1,1,0,28,28,29,e,1,0.56679349998,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,0,29,29,18,i,1,0.60011660005,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,"5 juillet,",i,i,1,e,e,blank.png,0,1,1,1,0,30,30,3,e,1,0.616737400182,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,0,31,31,23,i,1,0.666612299858,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chardron,i,i,1,e,e,blank.png,0,1,1,1,0,32,32,6,e,1,0.532079500146,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,0,33,33,16,i,1,0.583781500114,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,0,34,34,19,i,1,0.533608700149,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sale,i,i,3,e,e,blank.png,0,1,1,1,1,0,35,32,e,1,0.567055700114,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,St Emilion,i,i,1,e,e,blank.png,0,1,1,1,1,1,36,9,e,1,0.716003600042,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,1,2,37,14,i,1,0.83227610006,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,1,3,38,12,i,1,0.599277300062,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,1,4,39,19,i,1,0.599162400002,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,"5 juillet,",i,i,1,e,e,blank.png,0,1,1,1,1,5,40,3,e,1,0.484272300033,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,St Emilion,i,i,1,e,e,blank.png,0,1,1,1,1,6,41,4,e,1,0.748945700005,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,1,7,42,21,i,1,0.600041700061,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Meprisant,i,i,3,e,e,blank.png,0,1,1,1,1,8,43,31,e,1,0.699211099884,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,"5 juillet,",i,i,1,e,e,blank.png,0,1,1,1,1,9,44,8,e,1,0.59909179993,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,1,10,45,15,i,1,0.581870200112,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,1,11,46,17,i,1,0.465684700059,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Mechant,i,i,3,e,e,blank.png,0,1,1,1,1,12,47,29,e,1,0.615671499865,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chardron,i,i,1,e,e,blank.png,0,1,1,1,1,13,48,6,e,1,1.81599580008,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,1987,i,i,1,e,e,blank.png,0,1,1,1,1,14,49,7,e,1,0.483465699945,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sale,i,i,3,e,e,blank.png,0,1,1,1,1,15,50,27,e,1,0.849832299864,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,1,16,51,20,i,1,0.699978299905,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,1,17,52,13,i,1,0.601221199846,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,1,18,53,18,i,1,0.482726000017,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chrystelle,i,i,1,e,e,blank.png,0,1,1,1,1,19,54,0,e,1,0.533401499968,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,1987,i,i,1,e,e,blank.png,0,1,1,1,1,20,55,2,e,1,0.367087699939,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Degoutant,i,i,3,e,e,blank.png,0,1,1,1,1,21,56,28,e,1,0.599994599819,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Affreux,i,i,3,e,e,blank.png,0,1,1,1,1,22,57,25,e,1,0.649191400036,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chardron,i,i,1,e,e,blank.png,0,1,1,1,1,23,58,1,e,1,0.516645899974,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Adorable,e,e,2,i,i,blank.png,0,1,1,1,1,24,59,24,i,1,0.51677899994,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Affreux,i,i,3,e,e,blank.png,0,1,1,1,1,25,60,30,e,1,0.715840599965,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Degoutant,i,i,3,e,e,blank.png,0,1,1,1,1,26,61,33,e,1,0.56608540006,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Mechant,i,i,3,e,e,blank.png,0,1,1,1,1,27,62,34,e,1,0.466686500004,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,1,28,63,16,i,1,1.69728980004,e,1,1.08266089996,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,white,Chrystelle,i,i,1,e,e,blank.png,0,1,1,1,1,29,64,5,e,1,0.583542899927,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Sympathique,e,e,2,i,i,blank.png,0,1,1,1,1,30,65,23,i,1,0.799797100015,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Attrayant,e,e,2,i,i,blank.png,0,1,1,1,1,31,66,10,i,1,0.466188499937,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Meprisant,i,i,3,e,e,blank.png,0,1,1,1,1,32,67,26,e,1,0.632032399997,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Favorable,e,e,2,i,i,blank.png,0,1,1,1,1,33,68,22,i,1,0.882900200086,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF.
+
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ",or, ,trials_B.xlsx,2,Positif,Negatif, ,2,Individu,magenta,Appreciable,e,e,2,i,i,blank.png,0,1,1,1,1,34,69,11,i,1,1.16405749996,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chardron,e,e,1,i,i,blank.png,0,2,2,2,0,0,0,6,i,1,0.698984899791,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,"5 juillet,",e,e,1,i,i,blank.png,0,2,2,2,0,1,1,3,i,1,0.466432900168,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,0,2,2,27,e,1,0.78347419994,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chardron,e,e,1,i,i,blank.png,0,2,2,2,0,3,3,1,i,1,0.831641099881,e,1,0.56486709998,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Adorable,e,e,2,i,i,blank.png,0,2,2,2,0,4,4,19,i,1,0.666633100016,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,0,5,5,26,e,1,0.982063599862,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,0,6,6,34,e,1,0.615900599863,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,0,7,7,24,e,1,0.500586600043,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,St Emilion,e,e,1,i,i,blank.png,0,2,2,2,0,8,8,9,i,1,1.26474369993,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Attrayant,e,e,2,i,i,blank.png,0,2,2,2,0,9,9,15,i,1,0.665887900162,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,St Emilion,e,e,1,i,i,blank.png,0,2,2,2,0,10,10,4,i,1,0.715823899955,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,0,11,11,20,e,1,0.733049700037,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Appreciable,e,e,2,i,i,blank.png,0,2,2,2,0,12,12,16,i,1,0.74821040011,e,1,0.516023499891,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,0,13,13,25,e,1,0.866425300017,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,0,14,14,30,e,1,0.582685099915,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Favorable,e,e,2,i,i,blank.png,0,2,2,2,0,15,15,12,i,1,0.616713199997,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sympathique,e,e,2,i,i,blank.png,0,2,2,2,0,16,16,13,i,1,1.31599050015,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,0,17,17,23,e,1,0.666715699947,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,0,18,18,29,e,1,0.683486500056,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Appreciable,e,e,2,i,i,blank.png,0,2,2,2,0,19,19,11,i,1,0.881137400167,e,1,0.548591800034,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chrystelle,e,e,1,i,i,blank.png,0,2,2,2,0,20,20,5,i,1,0.699213600019,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,0,21,21,32,e,1,0.933047600091,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,1987,e,e,1,i,i,blank.png,0,2,2,2,0,22,22,2,i,1,0.648453400005,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Adorable,e,e,2,i,i,blank.png,0,2,2,2,0,23,23,14,i,1,0.516810699832,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,0,24,24,22,e,1,0.600150099955,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Attrayant,e,e,2,i,i,blank.png,0,2,2,2,0,25,25,10,i,1,0.866430599941,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chrystelle,e,e,1,i,i,blank.png,0,2,2,2,0,26,26,0,i,1,0.432807100005,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sympathique,e,e,2,i,i,blank.png,0,2,2,2,0,27,27,18,i,1,0.733017399907,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Favorable,e,e,2,i,i,blank.png,0,2,2,2,0,28,28,17,i,1,0.61673670006,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,1987,e,e,1,i,i,blank.png,0,2,2,2,0,29,29,7,i,1,0.716607500101,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,"5 juillet,",e,e,1,i,i,blank.png,0,2,2,2,0,30,30,8,i,1,0.499314000132,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,0,31,31,28,e,1,0.66609669989,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,0,32,32,21,e,1,0.664901199983,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,0,33,33,31,e,1,0.716877399944,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,0,34,34,33,e,1,0.533296900103,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chardron,e,e,1,i,i,blank.png,0,2,2,2,1,0,35,1,i,1,0.714956799988,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Appreciable,e,e,2,i,i,blank.png,0,2,2,2,1,1,36,11,i,1,1.13334909989,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,1,2,37,30,e,1,0.650180299999,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,1,3,38,24,e,1,0.8830550001,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,1,4,39,28,e,1,0.749189600116,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,1987,e,e,1,i,i,blank.png,0,2,2,2,1,5,40,2,i,1,0.482787700137,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Adorable,e,e,2,i,i,blank.png,0,2,2,2,1,6,41,19,i,1,0.649962099968,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chardron,e,e,1,i,i,blank.png,0,2,2,2,1,7,42,6,i,1,0.766365600051,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,1,8,43,33,e,1,0.849841699935,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Degoutant,i,i,3,e,e,blank.png,0,2,2,2,1,9,44,23,e,1,0.799887700006,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,1,10,45,22,e,1,0.68313489994,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chrystelle,e,e,1,i,i,blank.png,0,2,2,2,1,11,46,5,i,1,0.516066699987,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Attrayant,e,e,2,i,i,blank.png,0,2,2,2,1,12,47,10,i,1,0.583516600076,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,1,13,48,34,e,1,0.600113900146,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Favorable,e,e,2,i,i,blank.png,0,2,2,2,1,14,49,12,i,1,0.549084699946,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,1,15,50,32,e,1,0.584798699943,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,1,16,51,20,e,1,0.866683800006,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,Chrystelle,e,e,1,i,i,blank.png,0,2,2,2,1,17,52,0,i,1,0.450472500175,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,1,18,53,26,e,1,0.632609399967,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,1,19,54,21,e,1,0.516369000077,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sale,i,i,3,e,e,blank.png,0,2,2,2,1,20,55,27,e,1,0.549661000026,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Favorable,e,e,2,i,i,blank.png,0,2,2,2,1,21,56,17,i,1,0.583121000091,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Mechant,i,i,3,e,e,blank.png,0,2,2,2,1,22,57,29,e,1,1.36519549997,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,"5 juillet,",e,e,1,i,i,blank.png,0,2,2,2,1,23,58,8,i,1,0.765639699996,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Adorable,e,e,2,i,i,blank.png,0,2,2,2,1,24,59,14,i,1,1.11503050011,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,1987,e,e,1,i,i,blank.png,0,2,2,2,1,25,60,7,i,1,1.24965499993,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,St Emilion,e,e,1,i,i,blank.png,0,2,2,2,1,26,61,4,i,1,0.982993999962,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Meprisant,i,i,3,e,e,blank.png,0,2,2,2,1,27,62,31,e,1,1.74886750011,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,St Emilion,e,e,1,i,i,blank.png,0,2,2,2,1,28,63,9,i,1,1.78214349994,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Appreciable,e,e,2,i,i,blank.png,0,2,2,2,1,29,64,16,i,1,1.14869659999,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sympathique,e,e,2,i,i,blank.png,0,2,2,2,1,30,65,18,i,1,0.533240300138,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Sympathique,e,e,2,i,i,blank.png,0,2,2,2,1,31,66,13,i,1,0.466173300054,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,white,"5 juillet,",e,e,1,i,i,blank.png,0,2,2,2,1,32,67,3,i,1,0.600062400103,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Attrayant,e,e,2,i,i,blank.png,0,2,2,2,1,33,68,15,i,1,0.649219299899,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
+magenta,white,"C'est une phase VOUS, POSITIF, NEGATIF. 
+Attention, une categorie s'est inversee!!
+Essayez de repondre le plus vite possible sans faire d'erreurs.
+
+Appuyez sur E ou I pour continuer. ", ,or,trials_A.xlsx,2,Positif,Negatif,Individu,2, ,magenta,Affreux,i,i,3,e,e,blank.png,0,2,2,2,1,34,69,25,e,1,0.682375200093,None,0,,12,f,11,59.9798707138,SCIAT IAT and likerts,2021_12_09_1435,
